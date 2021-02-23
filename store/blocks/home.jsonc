@@ -8,7 +8,6 @@
     "props": { 
       "text": "**Hola mundo**",
       "textAlignment": "RIGHT",
-      "textPosition": "CENTER",
       "font": "t-heading-1"
     }
   }
