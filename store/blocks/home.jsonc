@@ -6,11 +6,11 @@
       "info-card#button-left"
     ]
   },
+  
   "rich-text": { 
     "props": { 
       "text": "**Hola mundo**",
-      "textAlignment": "RIGHT",
-      "font": "t-heading-1"
+      "textAlignment": "RIGHT"
     }
   },
 
@@ -24,7 +24,8 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "info-card-example"
     }
   },
 
